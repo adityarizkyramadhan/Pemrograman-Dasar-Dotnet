@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pemrograman-Dasar-Dotnet/1.0.0": {
+        "runtime": {
+          "Pemrograman-Dasar-Dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pemrograman-Dasar-Dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

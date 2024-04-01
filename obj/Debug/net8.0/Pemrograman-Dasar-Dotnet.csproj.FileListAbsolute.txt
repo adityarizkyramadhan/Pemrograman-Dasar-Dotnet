@@ -1,0 +1,14 @@
+D:\Dotnet\Pemrograman-Dasar-Dotnet\bin\Debug\net8.0\Pemrograman-Dasar-Dotnet.exe
+D:\Dotnet\Pemrograman-Dasar-Dotnet\bin\Debug\net8.0\Pemrograman-Dasar-Dotnet.deps.json
+D:\Dotnet\Pemrograman-Dasar-Dotnet\bin\Debug\net8.0\Pemrograman-Dasar-Dotnet.runtimeconfig.json
+D:\Dotnet\Pemrograman-Dasar-Dotnet\bin\Debug\net8.0\Pemrograman-Dasar-Dotnet.dll
+D:\Dotnet\Pemrograman-Dasar-Dotnet\bin\Debug\net8.0\Pemrograman-Dasar-Dotnet.pdb
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.AssemblyInfoInputs.cache
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.AssemblyInfo.cs
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.csproj.CoreCompileInputs.cache
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.dll
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\refint\Pemrograman-Dasar-Dotnet.dll
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.pdb
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\Pemrograman-Dasar-Dotnet.genruntimeconfig.cache
+D:\Dotnet\Pemrograman-Dasar-Dotnet\obj\Debug\net8.0\ref\Pemrograman-Dasar-Dotnet.dll
